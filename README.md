@@ -1,4 +1,4 @@
-# Covid Data Exploration And Viz README
+# Covid Data Exploration And Viz
 
 ## Project Overview
 
